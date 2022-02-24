@@ -4,7 +4,7 @@ linguagem de programação Java.
 
 
 
-## Requisitos
+## :bookmark_tabs: Requisitos
 
 Para executar a aplicação Java é necessário:
 
@@ -16,8 +16,12 @@ Para executar a aplicação Java é necessário:
   * Obs: Para que o tabuleiro e as peças apareçam coloridos é necessário utilizar um terminal compatível, como o [Git Bash.](https://git-scm.com/downloads)
 * Ou simplesmente execute o arquivo executável ``.jar`` do projeto.
   * Em um terminal, preferencialmente colorido, execute: ``java -jar chessGame.jar``
+  
+## :movie_camera: Demonstração
 
-## Tópicos abordados
+Loading . . .
+
+## :mag: Tópicos abordados
 
 * Classes e Objetos
 * Encapsulamento
@@ -39,7 +43,7 @@ Para executar a aplicação Java é necessário:
 * Sobrecarga - overloading
 * Estrutura de dados Lista
 
-## Referências
+## :paperclip: Referências
 
 * [Udemy - Java Completo com Prof. Nélio Alves](https://www.udemy.com/course/java-curso-completo/)
 
