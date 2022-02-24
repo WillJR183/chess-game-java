@@ -3,7 +3,6 @@ O objetivo deste projeto é construir um sistema que simula o jogo de xadrez, co
 linguagem de programação Java.
 
 
-
 ## :bookmark_tabs: Requisitos
 
 Para executar a aplicação Java é necessário:
@@ -19,7 +18,8 @@ Para executar a aplicação Java é necessário:
   
 ## :movie_camera: Demonstração
 
-Loading . . .
+| ![Alt Text](demo/chessGameJava.gif) |
+| :--------------------------------: |
 
 ## :mag: Tópicos abordados
 
